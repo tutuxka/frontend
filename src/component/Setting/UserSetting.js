@@ -1071,7 +1071,7 @@ class UserSettingCompoment extends Component {
                                 button
                                 onClick={() =>
                                     window.open(
-                                        "https://github.com/cloudreve/cloudreve"
+                                        "https://blog.tutuxka.eu.org"
                                     )
                                 }
                             >
@@ -1092,7 +1092,7 @@ class UserSettingCompoment extends Component {
                             <ListItem
                                 button
                                 onClick={() =>
-                                    window.open("https://cloudreve.org")
+                                    window.open("#")
                                 }
                             >
                                 <ListItemIcon className={classes.iconFix}>
